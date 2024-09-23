@@ -50,6 +50,7 @@ else:
 #if a % 2 == 0:
  #   print(a, 'es par')
 #elif a > 20:
+
  #   print(a, 'es mayor que 20')
 
 nota = float(input('introduce una nota: '))
